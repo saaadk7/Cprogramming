@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "myprog1.C": "cpp",
+    "domination.C": "cpp",
+    "leapyear.C": "cpp",
+    "odd_even_noArth.C": "cpp",
+    "odd_even_2.C": "cpp",
+    "voter_eligi.C": "cpp",
+    "twoDigit.C": "cpp",
+    "sal_hike.C": "cpp",
+    "whichLetter.C": "cpp",
+    "convertAtoa.C": "cpp",
+    "atoA_2.C": "cpp",
+    "twoWheelerShow.C": "cpp",
+    "exam1.C": "cpp",
+    "exam2.C": "cpp",
+    "Electricity_copy.C": "cpp"
+  }
+}
