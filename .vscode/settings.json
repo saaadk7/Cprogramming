@@ -14,6 +14,10 @@
     "twoWheelerShow.C": "cpp",
     "exam1.C": "cpp",
     "exam2.C": "cpp",
-    "Electricity_copy.C": "cpp"
+    "Electricity_copy.C": "cpp",
+    "switch_Months.C": "cpp",
+    "vowel_Switch.C": "cpp",
+    "maxBet2Switch.C": "cpp",
+    "arthSwitch.C": "cpp"
   }
 }

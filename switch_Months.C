@@ -1,4 +1,4 @@
-// program for money denomination
+// program for NUmber of days in month
 #include <stdio.h>
 #include <conio.h>
 int main()

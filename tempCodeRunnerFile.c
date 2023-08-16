@@ -1,2 +1,1 @@
-printf("Enter the Units: ");
-    // scanf("%d", &units);
+scanf("%d %d %d %d %d",&sub1,&sub2,&sub3,&sub4,&sub5);
