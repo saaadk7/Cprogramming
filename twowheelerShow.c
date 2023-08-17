@@ -25,9 +25,15 @@ int main()
             // main sol
             if (problem == 1)
             {
+            tyers:
                 printf("How many tyers faceing the issue :");
-
                 scanf("%d", &tyre);
+                if (tyre > wheels)
+                {
+
+                    puts("HOW CAN THIS IS POSSIBLE? TYpe Tyers Again:: ");
+                    goto tyers;
+                }
                 if (tyre == 1)
                     bill = 400;
                 else if (tyre == 2)
@@ -93,7 +99,7 @@ int main()
         printf("Vehical_name: %s \n", bike_name);
         printf("Issue: %s \n", issue);
         printf("Your bill is : %d \n ", bill);
-        puts("-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --");
+        puts("----------------------------------------------------------------------");
     }
 a:
     return 0;

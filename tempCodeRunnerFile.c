@@ -1,1 +1,1 @@
-scanf("%d %d %d %d %d",&sub1,&sub2,&sub3,&sub4,&sub5);
+ (score == score1) ? puts("Both Guys Scored same . ") : puts("RESULT ::  \n \t");
