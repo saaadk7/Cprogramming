@@ -1,5 +1,4 @@
-//Depsoit money and widraw 
-
+// Depsoit money and widraw
 
 #include <stdio.h>
 #include <conio.h>
@@ -25,16 +24,20 @@ a:
     switch (op)
     {
     case 'd':
-    c:
+    valid:
         puts("How Much Money Do You Want to Deposit ?");
         scanf("%f", &amt);
-        printf("Previos balace was : %f Rupees. \n", bal);
-        if (amt > 0)
+        printf("Previos balace was : %.2f Rupees. \n", bal);
+        if (amt >= 0)
         {
-            curr_bal = bal;
-            goto c;
+            curr_bal = bal + amt;
         }
-        printf("Current balace is : %f Rupees. \n", curr_bal);
+        else
+        {
+            puts("Enter Valid Amount . ");
+            goto valid;
+        }
+        printf("Current balace is : %.2f Rupees. \n", curr_bal);
         break;
 
     case 'w':

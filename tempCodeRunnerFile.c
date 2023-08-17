@@ -1,1 +1,1 @@
- (score == score1) ? puts("Both Guys Scored same . ") : puts("RESULT ::  \n \t");
+ c:
