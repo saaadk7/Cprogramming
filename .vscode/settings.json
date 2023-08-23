@@ -32,6 +32,8 @@
     "lab2while.C": "cpp",
     "day2whileLab.C": "cpp",
     "whilelabDay2Q3.C": "cpp",
-    "Day2WhileQ4.C": "cpp"
+    "Day2WhileQ4.C": "cpp",
+    "sumOfSeriesFor.C": "cpp",
+    "HarmonicSeriesFor.C": "cpp"
   }
 }
