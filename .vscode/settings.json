@@ -34,6 +34,9 @@
     "whilelabDay2Q3.C": "cpp",
     "Day2WhileQ4.C": "cpp",
     "sumOfSeriesFor.C": "cpp",
-    "HarmonicSeriesFor.C": "cpp"
+    "HarmonicSeriesFor.C": "cpp",
+    "forPrime.C": "cpp",
+    "Armstrong.C": "cpp",
+    "automorphic.C": "cpp"
   }
 }
