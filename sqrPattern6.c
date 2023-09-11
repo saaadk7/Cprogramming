@@ -4,16 +4,18 @@
 
 int main()
 {
-    int n = 1, i, j;
+    int n, i, j;
+    int temp;
     for (i = 1; i <= 5; i++)
     {
-        int k = i;
+        n = i;
         for (j = 1; j <= 5; j++)
         {
-            printf("%4d", k);
-            k -= 5;
+            temp = n * j;
+            printf("%4d", temp);
         }
-
+        //  n++;
+        // temp=i;
         printf("\n");
     }
 

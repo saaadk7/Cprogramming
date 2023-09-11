@@ -5,13 +5,13 @@
 int main()
 {
     int n = 1, i, j;
-    for (i = 1; i <= 5; i++)
+    for (i = 5; i >= 1; i--)
     {
         int k = i;
         for (j = 1; j <= 5; j++)
         {
             printf("%4d", k);
-            k -= 5;
+            k += 5;
         }
 
         printf("\n");

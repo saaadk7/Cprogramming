@@ -4,14 +4,16 @@
 
 int main()
 {
-    int n = 1, i, j;
+    int n, i, j;
     for (i = 1; i <= 5; i++)
     {
         int k = i;
+
         for (j = 1; j <= 5; j++)
         {
+
             printf("%4d", k);
-            k -= 5;
+            k++;
         }
 
         printf("\n");

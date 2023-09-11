@@ -37,6 +37,10 @@
     "HarmonicSeriesFor.C": "cpp",
     "forPrime.C": "cpp",
     "Armstrong.C": "cpp",
-    "automorphic.C": "cpp"
+    "automorphic.C": "cpp",
+    "sqrPattern3.C": "cpp",
+    "sqrPattern8.C": "cpp",
+    "sqrPattern9.C": "cpp",
+    "sqrPattern10.C": "cpp"
   }
 }
