@@ -41,6 +41,12 @@
     "sqrPattern3.C": "cpp",
     "sqrPattern8.C": "cpp",
     "sqrPattern9.C": "cpp",
-    "sqrPattern10.C": "cpp"
+    "sqrPattern10.C": "cpp",
+    "Train.C": "cpp",
+    "ArrayDay1.C": "cpp",
+    "AdditionOfArray.C": "cpp",
+    "ArrayMul.C": "cpp",
+    "sumofRightDiagonals.C": "cpp",
+    "sumofTwoRowandColumns.C": "cpp"
   }
 }
