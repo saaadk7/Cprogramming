@@ -47,6 +47,9 @@
     "AdditionOfArray.C": "cpp",
     "ArrayMul.C": "cpp",
     "sumofRightDiagonals.C": "cpp",
-    "sumofTwoRowandColumns.C": "cpp"
+    "sumofTwoRowandColumns.C": "cpp",
+    "String1.C": "cpp",
+    "String2.C": "cpp",
+    "sTRING5.C": "cpp"
   }
 }
