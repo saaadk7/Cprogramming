@@ -50,6 +50,11 @@
     "sumofTwoRowandColumns.C": "cpp",
     "String1.C": "cpp",
     "String2.C": "cpp",
-    "sTRING5.C": "cpp"
+    "sTRING5.C": "cpp",
+    "palindromString.C": "cpp",
+    "Anagram.C": "cpp",
+    "AscendingString.C": "cpp",
+    "descendingString.C": "cpp",
+    "FrequencyOfCharacter.C": "cpp"
   }
 }
